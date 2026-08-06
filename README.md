@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shubhamkr7658/dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shubhamkr7658/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shubhamkr7658/dsa/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shubhamkr7658/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/shubhamkr7658/dsa/tree/master/0994-rotting-oranges) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shubhamkr7658/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
