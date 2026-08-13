@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shubhamkr7658/dsa/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/shubhamkr7658/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubhamkr7658/dsa/tree/master/1406-stone-game-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shubhamkr7658/dsa/tree/master/3731-find-missing-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shubhamkr7658/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shubhamkr7658/dsa/tree/master/0990-satisfiability-of-equality-equations) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/shubhamkr7658/dsa/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhamkr7658/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shubhamkr7658/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/shubhamkr7658/dsa/tree/master/0456-132-pattern) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
