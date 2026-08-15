@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubhamkr7658/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubhamkr7658/dsa/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2104-sum-of-subarray-ranges](https://github.com/shubhamkr7658/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -116,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shubhamkr7658/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/shubhamkr7658/dsa/tree/master/0456-132-pattern) |
 | [0853-car-fleet](https://github.com/shubhamkr7658/dsa/tree/master/0853-car-fleet) |
+| [2104-sum-of-subarray-ranges](https://github.com/shubhamkr7658/dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shubhamkr7658/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/shubhamkr7658/dsa/tree/master/0456-132-pattern) |
 | [0853-car-fleet](https://github.com/shubhamkr7658/dsa/tree/master/0853-car-fleet) |
+| [2104-sum-of-subarray-ranges](https://github.com/shubhamkr7658/dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Ordered Set
 |  |
 | ------- |
