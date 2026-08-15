@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shubhamkr7658/dsa/tree/master/0006-zigzag-conversion) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamkr7658/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shubhamkr7658/dsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
