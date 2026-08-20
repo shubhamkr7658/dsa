@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shubhamkr7658/dsa/tree/master/0038-count-and-say) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamkr7658/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shubhamkr7658/dsa/tree/master/0990-satisfiability-of-equality-equations) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shubhamkr7658/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/shubhamkr7658/dsa/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhamkr7658/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shubhamkr7658/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/shubhamkr7658/dsa/tree/master/0456-132-pattern) |
 | [0853-car-fleet](https://github.com/shubhamkr7658/dsa/tree/master/0853-car-fleet) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shubhamkr7658/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamkr7658/dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
