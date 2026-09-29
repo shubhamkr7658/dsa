@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shubhamkr7658/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shubhamkr7658/dsa/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamkr7658/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1563-stone-game-v](https://github.com/shubhamkr7658/dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shubhamkr7658/dsa/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamkr7658/dsa/tree/master/2104-sum-of-subarray-ranges) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/shubhamkr7658/dsa/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhamkr7658/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamkr7658/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Stack
 |  |
 | ------- |
