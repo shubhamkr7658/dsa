@@ -71,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/shubhamkr7658/dsa/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/shubhamkr7658/dsa/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/shubhamkr7658/dsa/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/shubhamkr7658/dsa/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/shubhamkr7658/dsa/tree/master/3310-remove-methods-from-project) |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhamkr7658/dsa/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
