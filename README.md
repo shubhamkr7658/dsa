@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/shubhamkr7658/dsa/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamkr7658/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2498-frog-jump-ii](https://github.com/shubhamkr7658/dsa/tree/master/2498-frog-jump-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamkr7658/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shubhamkr7658/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamkr7658/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamkr7658/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2498-frog-jump-ii](https://github.com/shubhamkr7658/dsa/tree/master/2498-frog-jump-ii) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shubhamkr7658/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shubhamkr7658/dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shubhamkr7658/dsa/tree/master/2029-stone-game-ix) |
+| [2498-frog-jump-ii](https://github.com/shubhamkr7658/dsa/tree/master/2498-frog-jump-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhamkr7658/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shubhamkr7658/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamkr7658/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
