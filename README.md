@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0785-is-graph-bipartite](https://github.com/shubhamkr7658/dsa/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/shubhamkr7658/dsa/tree/master/3310-remove-methods-from-project) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [1386-cinema-seat-allocation](https://github.com/shubhamkr7658/dsa/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -256,10 +258,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
+## DP on Trees
+|  |
+| ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 <!---LeetCode Topics End-->
