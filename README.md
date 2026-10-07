@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/shubhamkr7658/dsa/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/shubhamkr7658/dsa/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamkr7658/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shubhamkr7658/dsa/tree/master/0038-count-and-say) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamkr7658/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shubhamkr7658/dsa/tree/master/0990-satisfiability-of-equality-equations) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamkr7658/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/shubhamkr7658/dsa/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhamkr7658/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
@@ -276,4 +278,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/shubhamkr7658/dsa/tree/master/0289-game-of-life) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamkr7658/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamkr7658/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamkr7658/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamkr7658/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
