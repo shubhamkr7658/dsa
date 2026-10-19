@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shubhamkr7658/dsa/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/shubhamkr7658/dsa/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/shubhamkr7658/dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shubhamkr7658/dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shubhamkr7658/dsa/tree/master/1140-stone-game-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shubhamkr7658/dsa/tree/master/0062-unique-paths) |
 | [0221-maximal-square](https://github.com/shubhamkr7658/dsa/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/shubhamkr7658/dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shubhamkr7658/dsa/tree/master/0877-stone-game) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamkr7658/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shubhamkr7658/dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
