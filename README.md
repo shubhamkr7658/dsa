@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/shubhamkr7658/dsa/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamkr7658/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2498-frog-jump-ii](https://github.com/shubhamkr7658/dsa/tree/master/2498-frog-jump-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/shubhamkr7658/dsa/tree/master/1386-cinema-seat-allocation) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamkr7658/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/shubhamkr7658/dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [0853-car-fleet](https://github.com/shubhamkr7658/dsa/tree/master/0853-car-fleet) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shubhamkr7658/dsa/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamkr7658/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamkr7658/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamkr7658/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2498-frog-jump-ii](https://github.com/shubhamkr7658/dsa/tree/master/2498-frog-jump-ii) |
 ## Stack
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/shubhamkr7658/dsa/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Backtracking
 |  |
 | ------- |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamkr7658/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/shubhamkr7658/dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Zero-Sum Game
 |  |
 | ------- |
