@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamkr7658/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/shubhamkr7658/dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/shubhamkr7658/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shubhamkr7658/dsa/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0785-is-graph-bipartite](https://github.com/shubhamkr7658/dsa/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/shubhamkr7658/dsa/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -97,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/shubhamkr7658/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0785-is-graph-bipartite](https://github.com/shubhamkr7658/dsa/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/shubhamkr7658/dsa/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/shubhamkr7658/dsa/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shubhamkr7658/dsa/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shubhamkr7658/dsa/tree/master/0990-satisfiability-of-equality-equations) |
+| [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/shubhamkr7658/dsa/tree/master/0289-game-of-life) |
 | [0931-minimum-falling-path-sum](https://github.com/shubhamkr7658/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/shubhamkr7658/dsa/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
