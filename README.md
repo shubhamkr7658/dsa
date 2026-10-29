@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2498-frog-jump-ii](https://github.com/shubhamkr7658/dsa/tree/master/2498-frog-jump-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shubhamkr7658/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamkr7658/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shubhamkr7658/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhamkr7658/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamkr7658/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
