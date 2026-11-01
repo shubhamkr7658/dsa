@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/shubhamkr7658/dsa/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/shubhamkr7658/dsa/tree/master/0289-game-of-life) |
 | [0406-queue-reconstruction-by-height](https://github.com/shubhamkr7658/dsa/tree/master/0406-queue-reconstruction-by-height) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhamkr7658/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/shubhamkr7658/dsa/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/shubhamkr7658/dsa/tree/master/0486-predict-the-winner) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhamkr7658/dsa/tree/master/0713-subarray-product-less-than-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shubhamkr7658/dsa/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shubhamkr7658/dsa/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhamkr7658/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/shubhamkr7658/dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shubhamkr7658/dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shubhamkr7658/dsa/tree/master/1140-stone-game-ii) |
