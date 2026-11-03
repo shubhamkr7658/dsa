@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamkr7658/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shubhamkr7658/dsa/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shubhamkr7658/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/shubhamkr7658/dsa/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/shubhamkr7658/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamkr7658/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/shubhamkr7658/dsa/tree/master/3731-find-missing-elements) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/shubhamkr7658/dsa/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2029-stone-game-ix](https://github.com/shubhamkr7658/dsa/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamkr7658/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/shubhamkr7658/dsa/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Bracket Sequences
 |  |
 | ------- |
