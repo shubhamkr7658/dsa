@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamkr7658/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1563-stone-game-v](https://github.com/shubhamkr7658/dsa/tree/master/1563-stone-game-v) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shubhamkr7658/dsa/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1882-process-tasks-using-servers](https://github.com/shubhamkr7658/dsa/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/shubhamkr7658/dsa/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamkr7658/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1882-process-tasks-using-servers](https://github.com/shubhamkr7658/dsa/tree/master/1882-process-tasks-using-servers) |
 ## Monotonic Queue
 |  |
 | ------- |
