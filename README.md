@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubhamkr7658/dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhamkr7658/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shubhamkr7658/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/shubhamkr7658/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shubhamkr7658/dsa/tree/master/1406-stone-game-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0785-is-graph-bipartite](https://github.com/shubhamkr7658/dsa/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhamkr7658/dsa/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/shubhamkr7658/dsa/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/shubhamkr7658/dsa/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/shubhamkr7658/dsa/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhamkr7658/dsa/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/shubhamkr7658/dsa/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/shubhamkr7658/dsa/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shubhamkr7658/dsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhamkr7658/dsa/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/shubhamkr7658/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/shubhamkr7658/dsa/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/shubhamkr7658/dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhamkr7658/dsa/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/shubhamkr7658/dsa/tree/master/3665-twisted-mirror-path-count) |
 ## Enumeration
 |  |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/shubhamkr7658/dsa/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/shubhamkr7658/dsa/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamkr7658/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/shubhamkr7658/dsa/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
