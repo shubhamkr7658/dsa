@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
+| [2236-root-equals-sum-of-children](https://github.com/shubhamkr7658/dsa/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
+| [2236-root-equals-sum-of-children](https://github.com/shubhamkr7658/dsa/tree/master/2236-root-equals-sum-of-children) |
 ## DP on Trees
 |  |
 | ------- |
