@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamkr7658/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1563-stone-game-v](https://github.com/shubhamkr7658/dsa/tree/master/1563-stone-game-v) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shubhamkr7658/dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1882-process-tasks-using-servers](https://github.com/shubhamkr7658/dsa/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/shubhamkr7658/dsa/tree/master/2029-stone-game-ix) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/shubhamkr7658/dsa/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Backtracking
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shubhamkr7658/dsa/tree/master/1882-process-tasks-using-servers) |
 ## Monotonic Queue
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/shubhamkr7658/dsa/tree/master/0289-game-of-life) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## String Matching
 |  |
 | ------- |
