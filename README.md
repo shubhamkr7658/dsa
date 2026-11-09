@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shubhamkr7658/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/shubhamkr7658/dsa/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhamkr7658/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamkr7658/dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shubhamkr7658/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/shubhamkr7658/dsa/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamkr7658/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
@@ -345,12 +347,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shubhamkr7658/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shubhamkr7658/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shubhamkr7658/dsa/tree/master/0226-invert-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/shubhamkr7658/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/shubhamkr7658/dsa/tree/master/0652-find-duplicate-subtrees) |
