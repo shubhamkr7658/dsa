@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamkr7658/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/shubhamkr7658/dsa/tree/master/0061-rotate-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shubhamkr7658/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/shubhamkr7658/dsa/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhamkr7658/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -405,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamkr7658/dsa/tree/master/0918-maximum-sum-circular-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/shubhamkr7658/dsa/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
