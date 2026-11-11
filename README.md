@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shubhamkr7658/dsa/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/shubhamkr7658/dsa/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/shubhamkr7658/dsa/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/shubhamkr7658/dsa/tree/master/0289-game-of-life) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shubhamkr7658/dsa/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/shubhamkr7658/dsa/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/shubhamkr7658/dsa/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/shubhamkr7658/dsa/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/shubhamkr7658/dsa/tree/master/0486-predict-the-winner) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shubhamkr7658/dsa/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/shubhamkr7658/dsa/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/shubhamkr7658/dsa/tree/master/0289-game-of-life) |
 | [0931-minimum-falling-path-sum](https://github.com/shubhamkr7658/dsa/tree/master/0931-minimum-falling-path-sum) |
