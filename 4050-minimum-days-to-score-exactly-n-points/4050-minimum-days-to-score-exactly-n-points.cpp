@@ -15,12 +15,16 @@ int solve(int n){
     int ans=1e5;
     for(k;k*(k+1)/2<=n;k++){
         int p=k*(k+1)/2;
+        if(n-p==0){
+            ans=min(ans,k);
+            break;
+        }
    ans=min(ans,k+1+solve(n-p));
     }
     return dp[n]=ans;
 }
     int minDays(int n) {
         dp.assign(n+1,-1);
-     return solve(n)-1;   
+     return solve(n);   
     }
 };
