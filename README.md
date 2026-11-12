@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shubhamkr7658/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/shubhamkr7658/dsa/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/shubhamkr7658/dsa/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4039-sum-of-decoded-numbers](https://github.com/shubhamkr7658/dsa/tree/master/4039-sum-of-decoded-numbers) |
 | [4044-count-good-cyclic-rotations](https://github.com/shubhamkr7658/dsa/tree/master/4044-count-good-cyclic-rotations) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/shubhamkr7658/dsa/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shubhamkr7658/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shubhamkr7658/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shubhamkr7658/dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [4039-sum-of-decoded-numbers](https://github.com/shubhamkr7658/dsa/tree/master/4039-sum-of-decoded-numbers) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/shubhamkr7658/dsa/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Dynamic Programming
 |  |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/shubhamkr7658/dsa/tree/master/0289-game-of-life) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [4039-sum-of-decoded-numbers](https://github.com/shubhamkr7658/dsa/tree/master/4039-sum-of-decoded-numbers) |
 ## String Matching
 |  |
 | ------- |
