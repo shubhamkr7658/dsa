@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamkr7658/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shubhamkr7658/dsa/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shubhamkr7658/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/shubhamkr7658/dsa/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4044-count-good-cyclic-rotations](https://github.com/shubhamkr7658/dsa/tree/master/4044-count-good-cyclic-rotations) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/shubhamkr7658/dsa/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamkr7658/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shubhamkr7658/dsa/tree/master/3731-find-missing-elements) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/shubhamkr7658/dsa/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamkr7658/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2498-frog-jump-ii](https://github.com/shubhamkr7658/dsa/tree/master/2498-frog-jump-ii) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/shubhamkr7658/dsa/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Stack
 |  |
 | ------- |
