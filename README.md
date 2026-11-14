@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2498-frog-jump-ii](https://github.com/shubhamkr7658/dsa/tree/master/2498-frog-jump-ii) |
 | [2747-count-zero-request-servers](https://github.com/shubhamkr7658/dsa/tree/master/2747-count-zero-request-servers) |
+| [2762-continuous-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/2762-continuous-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shubhamkr7658/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2762-continuous-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/2762-continuous-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2747-count-zero-request-servers](https://github.com/shubhamkr7658/dsa/tree/master/2747-count-zero-request-servers) |
+| [2762-continuous-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shubhamkr7658/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [4044-count-good-cyclic-rotations](https://github.com/shubhamkr7658/dsa/tree/master/4044-count-good-cyclic-rotations) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shubhamkr7658/dsa/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamkr7658/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/2762-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -352,12 +356,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shubhamkr7658/dsa/tree/master/1882-process-tasks-using-servers) |
+| [2762-continuous-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhamkr7658/dsa/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamkr7658/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/2762-continuous-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
