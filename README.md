@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shubhamkr7658/dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shubhamkr7658/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamkr7658/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3665-twisted-mirror-path-count](https://github.com/shubhamkr7658/dsa/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/shubhamkr7658/dsa/tree/master/3693-climbing-stairs-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubhamkr7658/dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shubhamkr7658/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [4044-count-good-cyclic-rotations](https://github.com/shubhamkr7658/dsa/tree/master/4044-count-good-cyclic-rotations) |
 ## Zero-Sum Game
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2747-count-zero-request-servers](https://github.com/shubhamkr7658/dsa/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamkr7658/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shubhamkr7658/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [4044-count-good-cyclic-rotations](https://github.com/shubhamkr7658/dsa/tree/master/4044-count-good-cyclic-rotations) |
 ## Segment Tree
 |  |
