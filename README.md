@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shubhamkr7658/dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1882-process-tasks-using-servers](https://github.com/shubhamkr7658/dsa/tree/master/1882-process-tasks-using-servers) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shubhamkr7658/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2029-stone-game-ix](https://github.com/shubhamkr7658/dsa/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamkr7658/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/shubhamkr7658/dsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shubhamkr7658/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/shubhamkr7658/dsa/tree/master/1927-sum-game) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shubhamkr7658/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamkr7658/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/shubhamkr7658/dsa/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2409-count-days-spent-together](https://github.com/shubhamkr7658/dsa/tree/master/2409-count-days-spent-together) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/shubhamkr7658/dsa/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/shubhamkr7658/dsa/tree/master/0853-car-fleet) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shubhamkr7658/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shubhamkr7658/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shubhamkr7658/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2747-count-zero-request-servers](https://github.com/shubhamkr7658/dsa/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamkr7658/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shubhamkr7658/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shubhamkr7658/dsa/tree/master/1882-process-tasks-using-servers) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shubhamkr7658/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2762-continuous-subarrays](https://github.com/shubhamkr7658/dsa/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhamkr7658/dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shubhamkr7658/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -454,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhamkr7658/dsa/tree/master/0239-sliding-window-maximum) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shubhamkr7658/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
