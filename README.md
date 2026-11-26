@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/shubhamkr7658/dsa/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhamkr7658/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shubhamkr7658/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/shubhamkr7658/dsa/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shubhamkr7658/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shubhamkr7658/dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4039-sum-of-decoded-numbers](https://github.com/shubhamkr7658/dsa/tree/master/4039-sum-of-decoded-numbers) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/shubhamkr7658/dsa/tree/master/0289-game-of-life) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubhamkr7658/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3360-stone-removal-game](https://github.com/shubhamkr7658/dsa/tree/master/3360-stone-removal-game) |
 | [4039-sum-of-decoded-numbers](https://github.com/shubhamkr7658/dsa/tree/master/4039-sum-of-decoded-numbers) |
 ## String Matching
 |  |
