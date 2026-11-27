@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamkr7658/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shubhamkr7658/dsa/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shubhamkr7658/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shubhamkr7658/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/shubhamkr7658/dsa/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/shubhamkr7658/dsa/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4039-sum-of-decoded-numbers](https://github.com/shubhamkr7658/dsa/tree/master/4039-sum-of-decoded-numbers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhamkr7658/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3665-twisted-mirror-path-count](https://github.com/shubhamkr7658/dsa/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/shubhamkr7658/dsa/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shubhamkr7658/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/shubhamkr7658/dsa/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Recursion
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamkr7658/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamkr7658/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shubhamkr7658/dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shubhamkr7658/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Number Theory
 |  |
 | ------- |
