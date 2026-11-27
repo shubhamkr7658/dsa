@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shubhamkr7658/dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/shubhamkr7658/dsa/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/shubhamkr7658/dsa/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/shubhamkr7658/dsa/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/shubhamkr7658/dsa/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/shubhamkr7658/dsa/tree/master/0486-predict-the-winner) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shubhamkr7658/dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamkr7658/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shubhamkr7658/dsa/tree/master/0038-count-and-say) |
+| [0091-decode-ways](https://github.com/shubhamkr7658/dsa/tree/master/0091-decode-ways) |
 | [0301-remove-invalid-parentheses](https://github.com/shubhamkr7658/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamkr7658/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shubhamkr7658/dsa/tree/master/0990-satisfiability-of-equality-equations) |
